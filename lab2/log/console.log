@@ -1,0 +1,450 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -work lab2 -2002  $dsn/src/and2.vhd $dsn/src/Inv.vhd $dsn/src/Or2.vhd $dsn/src/And3.vhd $dsn/src/task1/task1.vhd $dsn/src/task1/TestBench/task1_TB.vhd $dsn/src/task2/mux4.vhd $dsn/src/task2/TestBench/mux4_TB.vhd $dsn/src/task3/mux4.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\and2.vhd
+# Compile Entity "and2"
+# Compile Architecture "and2" of Entity "and2"
+# File: f:\pocp_projects\l1\lab2\src\Inv.vhd
+# Compile Entity "Inv"
+# Compile Architecture "Inv" of Entity "Inv"
+# File: f:\pocp_projects\l1\lab2\src\Or2.vhd
+# Compile Entity "Or2"
+# Compile Architecture "Or2" of Entity "Or2"
+# File: f:\pocp_projects\l1\lab2\src\And3.vhd
+# Compile Entity "And3"
+# Compile Architecture "And3" of Entity "And3"
+# File: f:\pocp_projects\l1\lab2\src\task1\task1.vhd
+# Compile Entity "mux2"
+# Compile Architecture "structMux2" of Entity "mux2"
+# Compile Architecture "BehaviorDescriptionMux2" of Entity "mux2"
+# File: f:\pocp_projects\l1\lab2\src\task1\TestBench\task1_TB.vhd
+# Compile Entity "mux2_tb"
+# Compile Architecture "TB_ARCHITECTURE_mux2" of Entity "mux2_tb"
+# Compile Configuration "TESTBENCH_FOR_mux2"
+# File: f:\pocp_projects\l1\lab2\src\task2\mux4.vhd
+# Compile Entity "mux4"
+# Compile Architecture "StructMux4" of Entity "mux4"
+# Compile Architecture "BehMux4" of Entity "mux4"
+# File: f:\pocp_projects\l1\lab2\src\task2\TestBench\mux4_TB.vhd
+# Compile Entity "mux4_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "mux4_tb"
+# Compile Configuration "TESTBENCH_FOR_mux4"
+# File: f:\pocp_projects\l1\lab2\src\task3\mux4.vhd
+# Compile Entity "variant1"
+# Compile Architecture "variant1" of Entity "variant1"
+# Error: COMP96_0015: mux4.vhd : (60, 3): '(' expected.
+# Error: COMP96_0028: mux4.vhd : (60, 3): Identifier or keyword expected.
+# Error: COMP96_0015: mux4.vhd : (60, 3): ';' expected.
+# Error: COMP96_0018: mux4.vhd : (66, 14): Identifier expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.4 [s]
+acom -O3 -work lab2 -2002  $dsn/src/and2.vhd $dsn/src/Inv.vhd $dsn/src/Or2.vhd $dsn/src/And3.vhd $dsn/src/task1/task1.vhd $dsn/src/task1/TestBench/task1_TB.vhd $dsn/src/task2/mux4.vhd $dsn/src/task2/TestBench/mux4_TB.vhd $dsn/src/task3/mux4.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\and2.vhd
+# Compile Entity "and2"
+# Compile Architecture "and2" of Entity "and2"
+# File: f:\pocp_projects\l1\lab2\src\Inv.vhd
+# Compile Entity "Inv"
+# Compile Architecture "Inv" of Entity "Inv"
+# File: f:\pocp_projects\l1\lab2\src\Or2.vhd
+# Compile Entity "Or2"
+# Compile Architecture "Or2" of Entity "Or2"
+# File: f:\pocp_projects\l1\lab2\src\And3.vhd
+# Compile Entity "And3"
+# Compile Architecture "And3" of Entity "And3"
+# File: f:\pocp_projects\l1\lab2\src\task1\task1.vhd
+# Compile Entity "mux2"
+# Compile Architecture "structMux2" of Entity "mux2"
+# Compile Architecture "BehaviorDescriptionMux2" of Entity "mux2"
+# File: f:\pocp_projects\l1\lab2\src\task1\TestBench\task1_TB.vhd
+# Compile Entity "mux2_tb"
+# Compile Architecture "TB_ARCHITECTURE_mux2" of Entity "mux2_tb"
+# Compile Configuration "TESTBENCH_FOR_mux2"
+# File: f:\pocp_projects\l1\lab2\src\task2\mux4.vhd
+# Compile Entity "mux4"
+# Compile Architecture "StructMux4" of Entity "mux4"
+# Compile Architecture "BehMux4" of Entity "mux4"
+# File: f:\pocp_projects\l1\lab2\src\task2\TestBench\mux4_TB.vhd
+# Compile Entity "mux4_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "mux4_tb"
+# Compile Configuration "TESTBENCH_FOR_mux4"
+# File: f:\pocp_projects\l1\lab2\src\task3\mux4.vhd
+# Compile Entity "variant1"
+# Compile Architecture "variant1" of Entity "variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom -O3 -work lab2 -2002  $dsn/src/and2.vhd $dsn/src/Inv.vhd $dsn/src/Or2.vhd $dsn/src/And3.vhd $dsn/src/task1/task1.vhd $dsn/src/task1/TestBench/task1_TB.vhd $dsn/src/task2/mux4.vhd $dsn/src/task2/TestBench/mux4_TB.vhd $dsn/src/task3/mux4.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\and2.vhd
+# Compile Entity "and2"
+# Compile Architecture "and2" of Entity "and2"
+# File: f:\pocp_projects\l1\lab2\src\Inv.vhd
+# Compile Entity "Inv"
+# Compile Architecture "Inv" of Entity "Inv"
+# File: f:\pocp_projects\l1\lab2\src\Or2.vhd
+# Compile Entity "Or2"
+# Compile Architecture "Or2" of Entity "Or2"
+# File: f:\pocp_projects\l1\lab2\src\And3.vhd
+# Compile Entity "And3"
+# Compile Architecture "And3" of Entity "And3"
+# File: f:\pocp_projects\l1\lab2\src\task1\task1.vhd
+# Compile Entity "mux2"
+# Compile Architecture "structMux2" of Entity "mux2"
+# Compile Architecture "BehaviorDescriptionMux2" of Entity "mux2"
+# File: f:\pocp_projects\l1\lab2\src\task1\TestBench\task1_TB.vhd
+# Compile Entity "mux2_tb"
+# Compile Architecture "TB_ARCHITECTURE_mux2" of Entity "mux2_tb"
+# Compile Configuration "TESTBENCH_FOR_mux2"
+# File: f:\pocp_projects\l1\lab2\src\task2\mux4.vhd
+# Compile Entity "mux4"
+# Compile Architecture "StructMux4" of Entity "mux4"
+# Compile Architecture "BehMux4" of Entity "mux4"
+# File: f:\pocp_projects\l1\lab2\src\task2\TestBench\mux4_TB.vhd
+# Compile Entity "mux4_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "mux4_tb"
+# Compile Configuration "TESTBENCH_FOR_mux4"
+# File: f:\pocp_projects\l1\lab2\src\task3\mux4.vhd
+# Compile Entity "variant1"
+# Compile Architecture "variant1" of Entity "variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+acom -O3 -work lab2 -2002  $dsn/src/and2.vhd $dsn/src/Inv.vhd $dsn/src/Or2.vhd $dsn/src/And3.vhd $dsn/src/task1/task1.vhd $dsn/src/task1/TestBench/task1_TB.vhd $dsn/src/task2/mux4.vhd $dsn/src/task2/TestBench/mux4_TB.vhd $dsn/src/task3/mux4.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\and2.vhd
+# Compile Entity "and2"
+# Compile Architecture "and2" of Entity "and2"
+# File: f:\pocp_projects\l1\lab2\src\Inv.vhd
+# Compile Entity "Inv"
+# Compile Architecture "Inv" of Entity "Inv"
+# File: f:\pocp_projects\l1\lab2\src\Or2.vhd
+# Compile Entity "Or2"
+# Compile Architecture "Or2" of Entity "Or2"
+# File: f:\pocp_projects\l1\lab2\src\And3.vhd
+# Compile Entity "And3"
+# Compile Architecture "And3" of Entity "And3"
+# File: f:\pocp_projects\l1\lab2\src\task1\task1.vhd
+# Compile Entity "mux2"
+# Compile Architecture "structMux2" of Entity "mux2"
+# Compile Architecture "BehaviorDescriptionMux2" of Entity "mux2"
+# File: f:\pocp_projects\l1\lab2\src\task1\TestBench\task1_TB.vhd
+# Compile Entity "mux2_tb"
+# Compile Architecture "TB_ARCHITECTURE_mux2" of Entity "mux2_tb"
+# Compile Configuration "TESTBENCH_FOR_mux2"
+# File: f:\pocp_projects\l1\lab2\src\task2\mux4.vhd
+# Compile Entity "mux4"
+# Compile Architecture "StructMux4" of Entity "mux4"
+# Compile Architecture "BehMux4" of Entity "mux4"
+# File: f:\pocp_projects\l1\lab2\src\task2\TestBench\mux4_TB.vhd
+# Compile Entity "mux4_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "mux4_tb"
+# Compile Configuration "TESTBENCH_FOR_mux4"
+# File: f:\pocp_projects\l1\lab2\src\task3\mux4.vhd
+# Compile Entity "variant1"
+# Compile Architecture "variant1Struct" of Entity "variant1"
+# Compile Architecture "variant1Beh" of Entity "variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.4 [s]
+SetActiveLib -work
+comp -include "$dsn\src\task3\mux4.vhd" 
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\task3\mux4.vhd
+# Compile Entity "variant1"
+# Compile Architecture "variant1Struct" of Entity "variant1"
+# Compile Architecture "variant1Beh" of Entity "variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+comp -include "$dsn\src\TestBench\variant1_TB.vhd" 
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\TestBench\variant1_TB.vhd
+# Compile Entity "variant1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "variant1_tb"
+# Compile Configuration "TESTBENCH_FOR_variant1"
+# Error: COMP96_0213: variant1_TB.vhd : (55, 7): Component instance "UUT : variant1" not found.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  78.0 [ms]
+# Error: DO_001 in file f:\pocp_projects\l1\lab2\src\TestBench\variant1_TB_runtest.do line 3
+# Error: Cannot run f:\pocp_projects\l1\lab2\src\TestBench\variant1_TB_runtest.do
+acom -O3 -work lab2 -2002  $dsn/src/and2.vhd $dsn/src/Inv.vhd $dsn/src/Or2.vhd $dsn/src/And3.vhd $dsn/src/task1/task1.vhd $dsn/src/task1/TestBench/task1_TB.vhd $dsn/src/task2/mux4.vhd $dsn/src/task2/TestBench/mux4_TB.vhd $dsn/src/task3/mux4.vhd $dsn/src/TestBench/variant1_TB.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\and2.vhd
+# Compile Entity "and2"
+# Compile Architecture "and2" of Entity "and2"
+# File: f:\pocp_projects\l1\lab2\src\Inv.vhd
+# Compile Entity "Inv"
+# Compile Architecture "Inv" of Entity "Inv"
+# File: f:\pocp_projects\l1\lab2\src\Or2.vhd
+# Compile Entity "Or2"
+# Compile Architecture "Or2" of Entity "Or2"
+# File: f:\pocp_projects\l1\lab2\src\And3.vhd
+# Compile Entity "And3"
+# Compile Architecture "And3" of Entity "And3"
+# File: f:\pocp_projects\l1\lab2\src\task1\task1.vhd
+# Compile Entity "mux2"
+# Compile Architecture "structMux2" of Entity "mux2"
+# Compile Architecture "BehaviorDescriptionMux2" of Entity "mux2"
+# File: f:\pocp_projects\l1\lab2\src\task1\TestBench\task1_TB.vhd
+# Compile Entity "mux2_tb"
+# Compile Architecture "TB_ARCHITECTURE_mux2" of Entity "mux2_tb"
+# Compile Configuration "TESTBENCH_FOR_mux2"
+# File: f:\pocp_projects\l1\lab2\src\task2\mux4.vhd
+# Compile Entity "mux4"
+# Compile Architecture "StructMux4" of Entity "mux4"
+# Compile Architecture "BehMux4" of Entity "mux4"
+# File: f:\pocp_projects\l1\lab2\src\task2\TestBench\mux4_TB.vhd
+# Compile Entity "mux4_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "mux4_tb"
+# Compile Configuration "TESTBENCH_FOR_mux4"
+# File: f:\pocp_projects\l1\lab2\src\task3\mux4.vhd
+# Compile Entity "variant1"
+# Compile Architecture "variant1Struct" of Entity "variant1"
+# Compile Architecture "variant1Beh" of Entity "variant1"
+# File: f:\pocp_projects\l1\lab2\src\TestBench\variant1_TB.vhd
+# Compile Entity "variant1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "variant1_tb"
+# Compile Configuration "TESTBENCH_FOR_variant1"
+# Error: COMP96_0213: variant1_TB.vhd : (55, 7): Component instance "UUT : variant1" not found.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.4 [s]
+acom -O3 -work lab2 -2002  $dsn/src/and2.vhd $dsn/src/Inv.vhd $dsn/src/Or2.vhd $dsn/src/And3.vhd $dsn/src/task1/task1.vhd $dsn/src/task1/TestBench/task1_TB.vhd $dsn/src/task2/mux4.vhd $dsn/src/task2/TestBench/mux4_TB.vhd $dsn/src/task3/variant1.vhd $dsn/src/TestBench/variant1_TB.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\and2.vhd
+# Compile Entity "and2"
+# Compile Architecture "and2" of Entity "and2"
+# File: f:\pocp_projects\l1\lab2\src\Inv.vhd
+# Compile Entity "Inv"
+# Compile Architecture "Inv" of Entity "Inv"
+# File: f:\pocp_projects\l1\lab2\src\Or2.vhd
+# Compile Entity "Or2"
+# Compile Architecture "Or2" of Entity "Or2"
+# File: f:\pocp_projects\l1\lab2\src\And3.vhd
+# Compile Entity "And3"
+# Compile Architecture "And3" of Entity "And3"
+# File: f:\pocp_projects\l1\lab2\src\task1\task1.vhd
+# Compile Entity "mux2"
+# Compile Architecture "structMux2" of Entity "mux2"
+# Compile Architecture "BehaviorDescriptionMux2" of Entity "mux2"
+# File: f:\pocp_projects\l1\lab2\src\task1\TestBench\task1_TB.vhd
+# Compile Entity "mux2_tb"
+# Compile Architecture "TB_ARCHITECTURE_mux2" of Entity "mux2_tb"
+# Compile Configuration "TESTBENCH_FOR_mux2"
+# File: f:\pocp_projects\l1\lab2\src\task2\mux4.vhd
+# Compile Entity "mux4"
+# Compile Architecture "StructMux4" of Entity "mux4"
+# Compile Architecture "BehMux4" of Entity "mux4"
+# File: f:\pocp_projects\l1\lab2\src\task2\TestBench\mux4_TB.vhd
+# Compile Entity "mux4_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "mux4_tb"
+# Compile Configuration "TESTBENCH_FOR_mux4"
+# File: f:\pocp_projects\l1\lab2\src\task3\variant1.vhd
+# Compile Entity "variant1"
+# Compile Architecture "variant1Struct" of Entity "variant1"
+# Compile Architecture "variant1Beh" of Entity "variant1"
+# File: f:\pocp_projects\l1\lab2\src\TestBench\variant1_TB.vhd
+# Compile Entity "variant1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "variant1_tb"
+# Compile Configuration "TESTBENCH_FOR_variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.4 [s]
+SetActiveLib -work
+comp -include "$dsn\src\task3\variant1.vhd" 
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\task3\variant1.vhd
+# Compile Entity "variant1"
+# Compile Architecture "variant1Struct" of Entity "variant1"
+# Compile Architecture "variant1Beh" of Entity "variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+comp -include "$dsn\src\TestBench\task3\variant1_TB.vhd" 
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\TestBench\task3\variant1_TB.vhd
+# Error: COMP96_0001: Cannot find source file "f:\pocp_projects\l1\lab2\src\TestBench\task3\variant1_TB.vhd".
+# Compile failure 1 Errors 0 Warnings  Analysis time :  15.0 [ms]
+# Error: DO_001 in file f:\pocp_projects\l1\lab2\src\TestBench\variant1_TB_runtest.do line 3
+# Error: Cannot run f:\pocp_projects\l1\lab2\src\TestBench\variant1_TB_runtest.do
+SetActiveLib -work
+comp -include "$dsn\src\task3\variant1.vhd" 
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\task3\variant1.vhd
+# Compile Entity "variant1"
+# Compile Architecture "variant1Struct" of Entity "variant1"
+# Compile Architecture "variant1Beh" of Entity "variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+comp -include "$dsn\src\TestBench\variant1_TB.vhd" 
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\TestBench\variant1_TB.vhd
+# Compile Entity "variant1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "variant1_tb"
+# Compile Configuration "TESTBENCH_FOR_variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+asim +access +r TESTBENCH_FOR_variant1 
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6009 kB (elbread=1023 elab2=4893 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location f:\pocp_projects\l1\lab2\src\wave.asdb
+#  21:29, 9 окт€бр€ 2016 г.
+#  Simulation has been initialized
+#  Selected Top-Level: testbench_for_variant1
+wave 
+wave -noreg x
+wave -noreg y
+wave -noreg z
+wave -noreg f
+# No signals matching
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\variant1_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_variant1 
+# 3 signal(s) traced.
+# 3 signal(s) traced.
+run
+run
+run 64 ns
+run 64 ns
+endsim
+# KERNEL: stopped at time: 19855500 ns
+#  Simulation has been stopped
+SetActiveLib -work
+comp -include "$dsn\src\task3\variant1.vhd" 
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\task3\variant1.vhd
+# Compile Entity "variant1"
+# Compile Architecture "variant1Struct" of Entity "variant1"
+# Compile Architecture "variant1Beh" of Entity "variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "$dsn\src\TestBench\variant1_TB.vhd" 
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\TestBench\variant1_TB.vhd
+# Compile Entity "variant1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "variant1_tb"
+# Compile Configuration "TESTBENCH_FOR_variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+asim +access +r TESTBENCH_FOR_variant1 
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6009 kB (elbread=1023 elab2=4893 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location f:\pocp_projects\l1\lab2\src\wave.asdb
+#  21:29, 9 окт€бр€ 2016 г.
+#  Simulation has been initialized
+#  Selected Top-Level: testbench_for_variant1
+wave 
+wave -noreg x
+wave -noreg y
+wave -noreg z
+wave -noreg f
+# No signals matching
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\variant1_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_variant1 
+# 3 signal(s) traced.
+# 3 signal(s) traced.
+run 64 ns
+# KERNEL: stopped at time: 64 ns
+endsim
+#  Simulation has been stopped
+SetActiveLib -work
+comp -include "$dsn\src\task3\variant1.vhd" 
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\task3\variant1.vhd
+# Compile Entity "variant1"
+# Compile Architecture "variant1Struct" of Entity "variant1"
+# Compile Architecture "variant1Beh" of Entity "variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+comp -include "$dsn\src\TestBench\task3\variant1_TB.vhd" 
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\TestBench\task3\variant1_TB.vhd
+# Error: COMP96_0001: Cannot find source file "f:\pocp_projects\l1\lab2\src\TestBench\task3\variant1_TB.vhd".
+# Compile failure 1 Errors 0 Warnings  Analysis time :  16.0 [ms]
+# Error: DO_001 in file f:\pocp_projects\l1\lab2\src\task3\TestBench\variant1_TB_runtest.do line 3
+# Error: Cannot run f:\pocp_projects\l1\lab2\src\task3\TestBench\variant1_TB_runtest.do
+SetActiveLib -work
+comp -include "$dsn\src\task3\variant1.vhd" 
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\task3\variant1.vhd
+# Compile Entity "variant1"
+# Compile Architecture "variant1Struct" of Entity "variant1"
+# Compile Architecture "variant1Beh" of Entity "variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+comp -include "$dsn\src\task3\TestBench\variant1_TB.vhd" 
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: f:\pocp_projects\l1\lab2\src\task3\TestBench\variant1_TB.vhd
+# Compile Entity "variant1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "variant1_tb"
+# Compile Configuration "TESTBENCH_FOR_variant1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+asim +access +r TESTBENCH_FOR_variant1 
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6009 kB (elbread=1023 elab2=4893 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location f:\pocp_projects\l1\lab2\src\wave.asdb
+#  21:31, 9 окт€бр€ 2016 г.
+#  Simulation has been initialized
+#  Selected Top-Level: testbench_for_variant1
+wave 
+wave -noreg x
+wave -noreg y
+wave -noreg z
+wave -noreg f1
+wave -noreg f2
+wave -noreg error
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\variant1_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_variant1 
+# 6 signal(s) traced.
+run 64 ns
+# KERNEL: stopped at time: 64 ns
+endsim
+#  Simulation has been stopped

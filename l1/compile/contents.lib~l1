@@ -1,0 +1,10 @@
+257
+~E 1 "./src/mux.vhd" 28 mux
+~A 1 "./src/mux+task1.vhd" 40 mux
+~E 1 "./src/mux4.vhd" 28 mux4
+~A 1 "./src/mux4.vhd" 39 mux4
+~E 1 "./src/OR4.vhd" 28 OR4
+~A 1 "./src/OR4.vhd" 40 OR4
+~E 1 "./src/task2.vhd" 28 task2
+~A 1 "./src/task2.vhd" 39 task2
+~E 1 "./src/task3.vhd" 28 task3

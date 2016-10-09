@@ -1,0 +1,238 @@
+timestamp=1476037894102
+
+[and2]
+A/and2=21|./src/and2.vhd|38|1*683517
+BinI32/and2=3*127744
+I=0*417
+I/and2=0*723
+M=11|0|v98|1475852376387|./src/and2.vhd|0*145*0x0ae6b2a9a9bb874d75404190ae1c52f2039a45ed|0*348*0xab32bc1a2daf049573e14469f634e0e6
+M/and2=21|0|v98|1476037715440|./src/and2.vhd|0*515*0xc5a127f955947aefaddd1f32a897df459dd718c6|0*646*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/and2.vhd|28
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/and2=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[and3]
+A/and3=A/And3 21|./src/And3.vhd|39|1*686226
+BinI32/and3=3*128837
+I=0*32726
+I/and3=I/And3 0*33036
+M=11|0|v98|1476036626606|./src/And3.vhd|0*32435*0x8b77e3b6e26fa527607f9504f3abc08432ac4e16|0*32657*0xab32bc1a2daf049573e14469f634e0e6
+M/and3=M/And3 21|0|v98|1476037715574|./src/And3.vhd|0*32824*0xfb06da0aab4eda53a444ba1bead5c873d5f859a5|0*32959*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/And3.vhd|28
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/and3=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[inv]
+A/inv=A/Inv 21|./src/Inv.vhd|37|1*684439
+BinI32/inv=3*128118
+I=0*1196
+I/inv=I/Inv 0*1489
+M=11|0|v98|1475852376910|./src/Inv.vhd|0*949*0x0fcae18568e26ecd30e7d6593a7416ca50620a7e|0*1129*0xab32bc1a2daf049573e14469f634e0e6
+M/inv=M/Inv 21|0|v98|1476037715496|./src/Inv.vhd|0*1293*0x26d3ce9940f870fe259543f180f772083ab01a34|0*1415*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Inv.vhd|28
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/inv=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[megamux]
+A/beh=A/Beh 21|./src/task2/mux4.vhd|34|1*258829
+A/struct=A/Struct 21|./src/task2/mux4.vhd|13|1*256760
+BinI32/beh=3*47011
+I=0*14449
+I/beh=I/Beh 0*15307
+I/struct=I/Struct 0*15849
+M=11|0|v98|1476029055811|./src/task2/mux4.vhd|0*14119*0x4b60ce1050cc60bf909d1f0a5f9ef5354edeaa81|0*14371*0xab32bc1a2daf049573e14469f634e0e6
+M/beh=M/Beh 21|0|v98|1476029076096|./src/task2/mux4.vhd|0*15050*0x42fc89749bc66ab0efb4f4fc77a52b8b742637e1|0*15222*0xb33770ff1c10522f9491560174ac8e6c
+M/struct=M/Struct 21|0|v98|1476029076089|./src/task2/mux4.vhd|0*15412*0x12bf575e15fc5eca920cb36bd92732cb665de22e|0*15761*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/task2/mux4.vhd|4
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/beh=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/struct=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[mux2]
+A/behaviordescriptionmux2=A/BehaviorDescriptionMux2 21|./src/task1/task1.vhd|69|1*689797
+A/structmux2=A/structMux2 21|./src/task1/task1.vhd|37|1*687232
+BinI32/behaviordescriptionmux2=3*129226
+I=0*29511
+I/behaviordescriptionmux2=I/BehaviorDescriptionMux2 0*30777
+I/structmux2=I/structMux2 0*30206
+M=11|0|v98|1476035429560|./src/task1/task1.vhd|0*29232*0x1e3bde80e3e9dd639ca23366de73760574927be1|0*29435*0xab32bc1a2daf049573e14469f634e0e6
+M/behaviordescriptionmux2=M/BehaviorDescriptionMux2 21|0|v98|1476037715617|./src/task1/task1.vhd|0*30467*0x4f8afa98c31861326e67bd2da7ab6506a7e6bfea|0*30674*0xb33770ff1c10522f9491560174ac8e6c
+M/structmux2=M/structMux2 21|0|v98|1476037715613|./src/task1/task1.vhd|0*29609*0x840ddf57f335a3624056c4c8b7959dd40c83a649|0*30116*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/task1/task1.vhd|28
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behaviordescriptionmux2=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/structmux2=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[mux2_tb]
+A/tb_architecture_mux2=A/TB_ARCHITECTURE_mux2 21|./src/task1/TestBench/task1_TB.vhd|9|1*690871
+BinI32/tb_architecture_mux2=3*129540
+I=0*28150
+I/tb_architecture_mux2=I/TB_ARCHITECTURE_mux2 0*30899
+M=11|0|v98|1476035419892|./src/task1/TestBench/task1_TB.vhd|0*27891*0xb0f9fc2bff46a4210fd885be349690c20dcb30fe|0*28058*0xab32bc1a2daf049573e14469f634e0e6
+M/tb_architecture_mux2=M/TB_ARCHITECTURE_mux2 21|0|v98|1476037715652|./src/task1/TestBench/task1_TB.vhd|0*28251*0x740fa6610bc92c390cd8c295d4501ecefae57e03|0*28872*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/task1/TestBench/task1_TB.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/tb_architecture_mux2=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[mux4]
+A/behmux4=A/BehMux4 21|./src/task2/mux4.vhd|64|1*695668
+A/mux4=21|./src/task2/mux4.vhd|42|1*301630
+A/structmux4=A/StructMux4 21|./src/task2/mux4.vhd|42|1*693753
+BinI32/behmux4=3*130257
+I=0*18222
+I/behmux4=I/BehMux4 0*19570
+I/mux4=0*18740
+I/structmux4=I/StructMux4 0*32111
+M=11|0|v98|1476029425647|./src/task2/mux4.vhd|0*17859*0xd61d7d91e6b02f5b38ca72630a3bdb3cad709f43|0*18147*0xab32bc1a2daf049573e14469f634e0e6
+M/behmux4=M/BehMux4 21|0|v98|1476037715694|./src/task2/mux4.vhd|0*19306*0x4347c0ecfa865fa28faf7b5202a20a740c80bb52|0*19484*0xb33770ff1c10522f9491560174ac8e6c
+M/mux4=21|0|v98|1476029564824|./src/task2/mux4.vhd|0*18320*0x45d2d8d2700c44e28ad3366cd24a2ba750ecae5b|0*18657*0xb33770ff1c10522f9491560174ac8e6c
+M/structmux4=M/StructMux4 21|0|v98|1476037715690|./src/task2/mux4.vhd|0*31682*0x62ba8cc2bc51b242ef39eff3093ecb969cfbdf78|0*32022*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/task2/mux4.vhd|28
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behmux4=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/mux4=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/struct=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/structmux4=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[mux4_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|./src/task2/TestBench/mux4_TB.vhd|9|1*697032
+BinI32/tb_architecture=3*130617
+I=0*19988
+I/tb_architecture=I/TB_ARCHITECTURE 0*27655
+M=11|0|v98|1476032449429|./src/TestBench/mux4_TB.vhd|0*19743*0x757f4c3d5d00aabacbf5530f60698bcfe0429115|0*19903*0xab32bc1a2daf049573e14469f634e0e6
+M/tb_architecture=M/TB_ARCHITECTURE 21|0|v98|1476037715733|./src/TestBench/mux4_TB.vhd|0*26599*0xaa4570c874b1727367133d3c1a4a03b129676549|0*27551*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/TestBench/mux4_TB.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/tb_architecture=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[or2]
+A/or2=A/Or2 21|./src/Or2.vhd|38|1*685309
+BinI32/or2=3*128464
+I=0*1998
+I/or2=I/Or2 0*2294
+M=11|0|v98|1475852377072|./src/Or2.vhd|0*1732*0x79d68977e2045ac870392ad864360b7a96275fff|0*1931*0xab32bc1a2daf049573e14469f634e0e6
+M/or2=M/Or2 21|0|v98|1476037715536|./src/Or2.vhd|0*2095*0xd1c853eb3845f5d9516dcd74d58b8f2a6c39bb0f|0*2220*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Or2.vhd|28
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/or2=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[task1]
+A/behaviordescriptiontask1=A/BehaviorDescriptionTask1 21|./src/task1/task1.vhd|69|1*489316
+A/structtask1=A/structTask1 21|./src/task1/task1.vhd|37|1*486748
+A/task1=21|./src/task1/task1.vhd|37|1*16873
+BinI32/behaviordescriptiontask1=3*89607
+I=0*2848
+I/behaviordescriptiontask1=I/BehaviorDescriptionTask1 0*4133
+I/structtask1=I/structTask1 0*5698
+I/task1=0*4837
+M=11|0|v98|1475852377172|./src/task1/task1.vhd|0*2565*0x1d3c1120c2fc9d5028fe0df10e8a7cec4fa6ad57|0*2771*0xab32bc1a2daf049573e14469f634e0e6
+M/behaviordescriptiontask1=M/BehaviorDescriptionTask1 21|0|v98|1476035116152|./src/task1/task1.vhd|0*3816*0xc89b63bb44c235d5c496c77b96b876839249983d|0*4028*0xb33770ff1c10522f9491560174ac8e6c
+M/structtask1=M/structTask1 21|0|v98|1476035116148|./src/task1/task1.vhd|0*5094*0x7ba7c2f4dc976f85b7170e0bd43291543a9550aa|0*5606*0xb33770ff1c10522f9491560174ac8e6c
+M/task1=21|0|v98|1475853370374|./src/task1/task1.vhd|0*4257*0x6c22c90ab6bd8e757ac2b48303dfc863f62db097|0*4751*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/task1/task1.vhd|28
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behaviordescriptiontask1=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/structtask1=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/task1=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[task1_tb]
+A/tb_architecture_task1=A/TB_ARCHITECTURE_task1 21|./src/task1/TestBench/task1_TB.vhd|9|1*490394
+BinI32/tb_architecture_task1=3*89922
+I=0*6282
+I/tb_architecture_task1=I/TB_ARCHITECTURE_task1 0*8634
+M=11|0|v98|1475854206758|./src/TestBench/task1_TB.vhd|0*6031*0xbcab40afe8705289f58fd8625e4abedd4aee2eac|0*6195*0xab32bc1a2daf049573e14469f634e0e6
+M/tb_architecture_task1=M/TB_ARCHITECTURE_task1 21|0|v98|1476035116199|./src/TestBench/task1_TB.vhd|0*7899*0x65c4ddb9edd8089dc20b1f43f4d7b46ba5cd0860|0*8522*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/TestBench/task1_TB.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/tb_architecture_task1=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[testbench_for_mux2]
+Configures=mux2_tb.TB_ARCHITECTURE_mux2
+E=1*693255
+I=0*31518
+M=2|0|v98|1476037715655|./src/task1/TestBench/task1_TB.vhd|0*31073*0x076dddcd970d52c8a06294f6bb425737a5d050d1|0*31405*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/task1/TestBench/task1_TB.vhd|54
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[testbench_for_mux4]
+Configures=mux4_tb.TB_ARCHITECTURE
+E=1*700703
+I=0*25210
+M=2|0|v98|1476037715736|./src/TestBench/mux4_TB.vhd|0*24801*0xe35d60ddb8d8112eb8cc9e0fb4dbb51cbf76b10c|0*25104*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/task2/TestBench/mux4_TB.vhd|72
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[testbench_for_task1]
+Configures=task1_tb.TB_ARCHITECTURE_task1
+E=1*492819
+I=0*7733
+M=2|0|v98|1476035116205|./src/TestBench/task1_TB.vhd|0*7287*0xfad36a05260bf4fb2afb74a604052ea68cd8244a|0*7624*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/task1/TestBench/task1_TB.vhd|54
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[testbench_for_variant1]
+Configures=variant1_tb.TB_ARCHITECTURE
+E=1*740391
+I=0*38889
+M=2|0|v98|1476037894044|./src/TestBench/variant1_TB.vhd|0*38429*0x114ccd5d1f5c47777a29d92e079674dd461698f2|0*38771*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/task3/TestBench/variant1_TB.vhd|53
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[variant1]
+A/variant1=21|./src/task3/mux4.vhd|39|1*625914
+A/variant1beh=A/variant1Beh 21|./src/task3/variant1.vhd|80|1*736920
+A/variant1struct=A/variant1Struct 21|./src/task3/variant1.vhd|39|1*733279
+BinI32/variant1beh=3*135149
+I=0*33633
+I/variant1=0*35236
+I/variant1beh=I/variant1Beh 0*36982
+I/variant1struct=I/variant1Struct 0*36376
+M=11|0|v98|1476036626868|./src/task3/mux4.vhd|0*33314*0x21bb261020757ad3a2581e01ecdc30549fcf3273|0*33554*0xab32bc1a2daf049573e14469f634e0e6
+M/variant1=21|0|v98|1476037038466|./src/task3/mux4.vhd|0*34434*0x87bf4407cf6ffb6e3f983200d1fe23f4f89ff04e|0*35145*0xb33770ff1c10522f9491560174ac8e6c
+M/variant1beh=M/variant1Beh 21|0|v98|1476037893741|./src/task3/mux4.vhd|0*36696*0x3ce0570915f90539e71adc5e072724356a90dd56|0*36888*0xb33770ff1c10522f9491560174ac8e6c
+M/variant1struct=M/variant1Struct 21|0|v98|1476037893737|./src/task3/mux4.vhd|0*35550*0xdc8168eef8faa02e60a90606caffa099cf447276|0*36279*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/task3/mux4.vhd|28
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/variant1=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/variant1beh=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/variant1struct=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[variant1_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|./src/task3/TestBench/variant1_TB.vhd|9|1*737985
+BinI32/tb_architecture=3*135610
+I=0*37445
+I/tb_architecture=I/TB_ARCHITECTURE 0*38252
+M=11|0|v98|1476037596441|./src/TestBench/variant1_TB.vhd|0*37175*0xe32c6ab832afd097f0b8008a770266aec128a31d|0*37352*0xab32bc1a2daf049573e14469f634e0e6
+M/tb_architecture=M/TB_ARCHITECTURE 21|0|v98|1476037894037|./src/TestBench/variant1_TB.vhd|0*37550*0xa3b2527e339776a06ab7b113136542ad4e6952f4|0*38140*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/TestBench/variant1_TB.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/tb_architecture=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+ModifyID=2171
+Version=73
+
+[~MFT]
+0=288|0lab2.mgf|38889|16297
+1=936|1lab2.mgf|740391|697399
+3=582|3lab2.mgf|135610|129871
+
+[~U]
+and2=11|0*0|
+and3=And3 11|0*32272|
+inv=Inv 11|0*826|
+megamux=MegaMux 11|0*13889|
+mux2=11|0*29065|
+mux2_tb=11|0*27824|
+mux4=11|0*17638|
+mux4_tb=11|0*19676|
+or2=Or2 11|0*1590|
+task1=11|0*2395|
+task1_tb=11|0*5961|
+testbench_for_mux2=TESTBENCH_FOR_mux2 2||
+testbench_for_mux4=TESTBENCH_FOR_mux4 2||
+testbench_for_task1=TESTBENCH_FOR_task1 2||
+testbench_for_variant1=TESTBENCH_FOR_variant1 2||
+variant1=11|0*33139|
+variant1_tb=11|0*37096|
+

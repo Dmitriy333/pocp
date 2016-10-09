@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available." 
+MESSAGE "File: F:\pocp_projects\l1\l1\src\task2.vhd" 
+MESSAGE "Compile Entity "task2"" 
+MESSAGE "Compile Architecture "task2" of Entity "task2"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

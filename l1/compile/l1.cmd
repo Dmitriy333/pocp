@@ -1,0 +1,1 @@
+-w -s "F:\pocp_projects\l1\l1\library.cfg"  -j "F:\pocp_projects\l1\l1\projlib.cfg"  -d "F:\pocp_projects\l1\l1\compile"   -work l1  -O3 -e 100 "F:\pocp_projects\l1\l1\src\task2.vhd"

@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available." 
+MESSAGE "File: f:\pocp_projects\l1\lab2\src\task3\TestBench\variant1_TB.vhd" 
+MESSAGE "Compile Entity "variant1_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "variant1_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_variant1"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]" 

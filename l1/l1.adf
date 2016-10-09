@@ -1,0 +1,119 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=l1
+
+[Library]
+l1=.\l1.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+CSYNTH_TOOL=<none>
+PHYSSYNTH_TOOL=<none>
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+FAMILY=<none>
+FUNC_LIB=l1
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+l1=.
+Active_lib=
+
+[IMPLEMENTATION]
+UCF=
+
+[SIM.FUNC]
+FJD=FunctionalSimTask
+FST=-all
+OPTION=0
+SERVERFARM_INCLUDE_INPUT_FILES=*.*
+SERVERFARM_EXCLUDE_INPUT_FILES=log\*.*:synthesis\*.*:implement\*.*
+SERVERFARM_SFM_RESOURCE=
+TOPLEVEL=task2
+WAVEFORMS=
+DEFWAVE=0
+ADD_HIERARCHY_SIGNALS=0
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=mux|mux|0 mux4|mux4|0 task2|task2|0
+ShowHide=ShowTopLevel
+Selected=
+
+[Folders]
+Name3=Makefiles
+Directory3=F:\pocp_projects\l1\l1\
+Extension3=mak
+Name4=Memory
+Directory4=F:\pocp_projects\l1\l1\src
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=F:\pocp_projects\l1\l1\
+Extension5=dll
+Name6=PDF
+Directory6=F:\pocp_projects\l1\l1\
+Extension6=pdf
+Name7=HTML
+Directory7=F:\pocp_projects\l1\l1\
+Extension7=
+
+[Files]
+/mux+task1.vhd=-1
+/OR4.vhd=-1
+/task2+task3.vhd=-1
+/mux4.vhd=-1
+/mux4waveform.asdb=-1
+/mux4waveform.awc=-1
+/mux4tableoftruth.asdb=-1
+/mux4tableoftruth.awc=-1
+/muxwaveform.asdb=-1
+/muxwaveform.awc=-1
+/muxtableoftruth.asdb=-1
+/muxtableoftruth.awc=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+/task2.vhd=-1
+
+[Files.Data]
+.\src\mux+task1.vhd=VHDL Source Code
+.\src\OR4.vhd=VHDL Source Code
+.\src\task2+task3.vhd=VHDL Source Code
+.\src\mux4.vhd=VHDL Source Code
+.\src\mux4waveform.asdb=Accelerated Waveform File
+.\src\mux4waveform.awc=Accelerated Waveform Configuration
+.\src\mux4tableoftruth.asdb=Accelerated Waveform File
+.\src\mux4tableoftruth.awc=Accelerated Waveform Configuration
+.\src\muxwaveform.asdb=Accelerated Waveform File
+.\src\muxwaveform.awc=Accelerated Waveform Configuration
+.\src\muxtableoftruth.asdb=Accelerated Waveform File
+.\src\muxtableoftruth.awc=Accelerated Waveform Configuration
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+.\src\task2.vhd=VHDL Source Code
+

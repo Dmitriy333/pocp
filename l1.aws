@@ -1,0 +1,16 @@
+[Version]
+Version=9.1
+[Designs]
+l1=.\l1\l1.adf
+lab2=.\lab2\lab2.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+l1=0
+lab2=1
+[Settings]
+Active=lab2

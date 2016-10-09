@@ -1,0 +1,1 @@
+-w -s "f:\pocp_projects\l1\library.cfg"  -j "f:\pocp_projects\l1\lab2\projlib.cfg"  -d "f:\pocp_projects\l1\lab2\compile"   -work lab2  -O3 -e 100 -2002 "f:\pocp_projects\l1\lab2\src\task3\TestBench\variant1_TB.vhd"

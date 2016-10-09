@@ -1,0 +1,12 @@
+[Files List]
+C:\Aldec\Active-HDL 9.1\Vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL 9.1\Vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL 9.1\VLIB\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL 9.1\VLIB\ieee/src/std_logic_1164-body.vhdl=S
+f:\pocp_projects\l1\lab2/src/Or2.vhd=S
+f:\pocp_projects\l1\lab2/src/And3.vhd=S
+f:\pocp_projects\l1\lab2/src/and2.vhd=S
+f:\pocp_projects\l1\lab2/src/Inv.vhd=S
+f:\pocp_projects\l1\lab2/src/task3/mux4.vhd=S
+f:\pocp_projects\l1\lab2/src/TestBench/variant1_TB.vhd=S
+f:\pocp_projects\l1\lab2/src/task3/TestBench/variant1_TB.vhd=S

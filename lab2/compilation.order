@@ -1,0 +1,10 @@
+.\src\and2.vhd
+.\src\Inv.vhd
+.\src\Or2.vhd
+.\src\And3.vhd
+.\src\task1\task1.vhd
+.\src\task1\TestBench\task1_TB.vhd
+.\src\task2\mux4.vhd
+.\src\task2\TestBench\mux4_TB.vhd
+.\src\task3\variant1.vhd
+.\src\task3\TestBench\variant1_TB.vhd
